@@ -21,4 +21,4 @@ Release notes state the tested build and any limitations.
 The separate Ethereum explorer fork is available at
 [tx-taxi/ethereum-explorer](https://github.com/tx-taxi/ethereum-explorer).
 
-Project: [tx.taxi](https://tx.taxi) · [Contact](https://t.me/hiss)
+Project: [tx.taxi](https://tx.taxi) | [Contact](https://t.me/hiss)
